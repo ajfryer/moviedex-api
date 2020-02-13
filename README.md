@@ -17,22 +17,22 @@ search for movies by genre, country or avg_vote
 
 ## endpoints
 
-**GET /movie**
+    **GET /movie**
 
-Responds with an array of movies, filtered by user params
+    Responds with an array of movies, filtered by user params
 
-Example Usage:
+    Example Usage:
 
-&nbsp;`/movie/?genre=comedy&country=unitedstates&avg_vote=5`
+        /movie/?genre=comedy&country=unitedstates&avg_vote=5
 
-Headers:
+    Headers:
 
-&nbsp;Authorization (Bearer Token, required)
+        Authorization (Bearer Token, required)
 
-Params:
+    Params:
 
-&nbsp;?genre (String, optional)
-&nbsp;?country (String, optional)
-&nbsp;?avg_score (Number, optional)
+        ?genre (String, optional)
+        ?country (String, optional)
+        ?avg_score (Number, optional)
 
 
