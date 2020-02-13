@@ -17,7 +17,8 @@ search for movies by genre, country or avg_vote
 
 ## endpoints
 
-**GET /movie**
+    GET 
+    /movie
 
     Responds with an array of movies, filtered by user params
 
