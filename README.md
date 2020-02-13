@@ -23,16 +23,16 @@ Responds with an array of movies, filtered by user params
 
 Example Usage:
 
-    `/movie/?genre=comedy&country=unitedstates&avg_vote=5`
+&nbsp;`/movie/?genre=comedy&country=unitedstates&avg_vote=5`
 
 Headers:
 
-    Authorization (Bearer Token, required)
+&nbsp;Authorization (Bearer Token, required)
 
 Params:
 
-    ?genre (String, optional)
-    ?country (String, optional)
-    ?avg_score (Number, optional)
+&nbsp;?genre (String, optional)
+&nbsp;?country (String, optional)
+&nbsp;?avg_score (Number, optional)
 
 
