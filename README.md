@@ -1,6 +1,7 @@
 # moviedex-api
 
 search for movies by genre, country or avg_vote
+
 ** requires authorization header with bearer token **
 
 ## install
